@@ -1,0 +1,22 @@
+{
+  "name": "js-pipeline.input.socket.io.client",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colo/js-pipeline.input.socket.io.Client.git"
+  },
+  "author": "Luciano Bueno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colo/js-pipeline.input.socket.io.Client/issues"
+  },
+  "homepage": "https://github.com/colo/js-pipeline.input.socket.io.Client#readme",
+  "dependencies": {
+    "node-app-socket.io-client": "git+https://github.com/colo/node-app-socket.io-client.git"
+  }
+}
